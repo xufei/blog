@@ -1,0 +1,20 @@
+{
+        "docs"      : ["posts"],        
+        "perpage"   : 5,
+        "types"     : {
+                "\\.(md||markdown)$"   : "markdown", 
+                "\\.(js||css||json)$"  : "code",
+                "\\.html?$"            : "html",
+                ".*"                   : "text"                
+        },
+        "title"  : "民工的砖墙",
+        "comment"  : "on",
+        "domain-alias"  : ["none"],
+        "friends"  : [
+                {
+                        "name"  : "http://akira-cn.gitpress.org/",
+                        "title"  : "Akira's Blog",
+                        "url"  : "http://akira-cn.gitpress.org/"                  
+                }
+        ] 
+}
