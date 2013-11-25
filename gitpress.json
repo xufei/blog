@@ -8,7 +8,7 @@
                 ".*"                   : "text"                
         },
         "title"  : "民工的砖墙",
-        "comment"  : {"type": "duoshuo", "short_name":"akira-cn"},
+        "comment"  : {"type": "duoshuo", "short_name":"sharpmaster"},
         "domain-alias"  : ["none"],
         "friends"  : [
                 {
