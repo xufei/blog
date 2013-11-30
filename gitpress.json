@@ -8,26 +8,26 @@
                 ".*"                   : "text"                
         },
         "title"  : "民工的砖墙",
-        "comment"     : {"type": "duoshuo", "short_name": "sharpmaster"},
+        "comment"     : {"type": "duoshuo", "short_name": "xufei"},
         "domain-alias"  : ["none"],
         "friends"  : [
                 {
-                "name" : "JerryQu的小站",
-                "title": "屈屈的博客",
-                "url"  : "http://imququ.com"
+                        "name" : "月影MM",
+                        "title": "十年踪迹的博客",
+                        "url"  :  "http://blog.silverna.org/"
                 },
                 {
-                "name" : "月影MM",
-                "title": "十年踪迹的博客",
-                "url"  :  "http://blog.silverna.org/"
+                        "name" : "JerryQu的小站",
+                        "title": "屈屈的博客",
+                        "url"  : "http://imququ.com"
                 },
                 {
-                "name" : "dh20156",
-                "title": "dh20156踪迹",
-                "url"  :  "http://www.w3cgroup.com/"
+                        "name" : "dh20156",
+                        "title": "dh20156踪迹",
+                        "url"  :  "http://www.w3cgroup.com/"
                 },
                 {
-                        "name"  : "doyoe/",
+                        "name"  : "doyoe",
                         "title"  : "CSS探索之旅",
                         "url"  : "http://blog.doyoe.com/"                  
                 }
