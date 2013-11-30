@@ -8,7 +8,7 @@
                 ".*"                   : "text"                
         },
         "title"  : "民工的砖墙",
-        "comment"     : {"type": "duoshuo", "short_name": "sharpmaster"},,
+        "comment"     : {"type": "duoshuo", "short_name": "sharpmaster"},
         "domain-alias"  : ["none"],
         "friends"  : [
                 {
@@ -29,7 +29,7 @@
                 {
                         "name"  : "doyoe/",
                         "title"  : "CSS探索之旅",
-                        "url"  : "http://blog.doyoe.com//"                  
+                        "url"  : "http://blog.doyoe.com/"                  
                 }
         ] 
 }
