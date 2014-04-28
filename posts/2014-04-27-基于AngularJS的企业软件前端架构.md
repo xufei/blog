@@ -103,7 +103,7 @@ B/S企业软件前端开发模式大体上与桌面软件类似，都是偏重�
  
 创建右键菜单最好的方式。
  
-[http://xufei.github.io/assets/iom.swf](http://xufei.github.io/assets/iom.swf "用这些技术构建的一个典型企业应用")
+[用这些技术构建的一个典型企业应用](http://xufei.github.io/assets/iom.swf "用这些技术构建的一个典型企业应用")
  
 ### 单页应用和前端分层
  
