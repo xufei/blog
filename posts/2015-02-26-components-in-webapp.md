@@ -503,7 +503,7 @@ console.log(listitem2.data == arr[2]);
 
 大家可以看到，fetch的接口就是基于promise的，这应当是前端开发人员最容易接受的方案了。
 
-# 7.5 Isomorphic JavaScript
+# 7.6 Isomorphic JavaScript
 
 这个东西的意思是前后端同构的JavaScript，也就是说，比如一块界面，可以选择在前端渲染，也可以选择在后端渲染，值得关注，可以解决像seo之类的问题，但现在还不能处理很复杂的状况，持续关注吧。
 
