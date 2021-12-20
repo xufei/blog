@@ -2,6 +2,8 @@ blog
 ====
 
 my personal blog
+Hi, can you add something new in order to update your files? Thanks you
+
 
 # 目录
 
